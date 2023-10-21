@@ -19,6 +19,15 @@ ChatGPT en los chatbots de tu compañía
 Diseño de productos físicos como zapatillas.
 [Fermat](https://fermat.app/)
 
+Automatización de Robots
+[Uipath](https://www.uipath.com/)
+
 AI conversacional
 [Druidai](https://www.druidai.com/)
 
+# Herramientas Low-code
+Crear Apps
+[GlideApps](https://www.glideapps.com/)
+
+Aplicaciones empresariales y apps by Saleforce
+[Lightning Saleforce](https://www.salesforce.com/campaign/lightning/)
