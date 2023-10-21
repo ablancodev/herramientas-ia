@@ -22,6 +22,9 @@ Diseño de productos físicos como zapatillas.
 Automatización de Robots
 [Uipath](https://www.uipath.com/)
 
+Azure AI platform
+[Azure AI](https://azure.microsoft.com/es-es/products/ai-services/)
+
 AI conversacional
 [Druidai](https://www.druidai.com/)
 
@@ -31,3 +34,6 @@ Crear Apps
 
 Aplicaciones empresariales y apps by Saleforce
 [Lightning Saleforce](https://www.salesforce.com/campaign/lightning/)
+
+Suite de Microsoft
+[Power Platform](https://powerplatform.microsoft.com/es-es/)
