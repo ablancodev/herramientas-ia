@@ -28,6 +28,14 @@ Azure AI platform
 AI conversacional
 [Druidai](https://www.druidai.com/)
 
+## Imágenes
+Para creación de imágenes de perfil
+[pfpmaker.com]https://pfpmaker.com/
+
+## Videos
+Crea varios videos cortos a partir de un video largo
+[www.opus.pro]https://www.opus.pro/
+
 # Herramientas Low-code
 Crear Apps
 [GlideApps](https://www.glideapps.com/)
@@ -37,3 +45,6 @@ Aplicaciones empresariales y apps by Saleforce
 
 Suite de Microsoft
 [Power Platform](https://powerplatform.microsoft.com/es-es/)
+
+Publicar un mismo conrenido en múltiples plataformas
+[repurpose.io]https://repurpose.io/
