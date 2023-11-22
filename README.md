@@ -36,6 +36,10 @@ Para creación de imágenes de perfil
 Crea varios videos cortos a partir de un video largo
 [www.opus.pro]https://www.opus.pro/
 
+## UI + frontend
+Dado un color base, te da una gama de colores (creo que no tiene IA, pero aceptamos barco)
+[https://uicolors.app/create]https://uicolors.app
+
 # Herramientas Low-code
 Crear Apps
 [GlideApps](https://www.glideapps.com/)
