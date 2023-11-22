@@ -38,7 +38,7 @@ Crea varios videos cortos a partir de un video largo
 
 ## UI + frontend
 Dado un color base, te da una gama de colores (creo que no tiene IA, pero aceptamos barco)
-[https://uicolors.app/create]https://uicolors.app
+[UIcolors.app](https://uicolors.app)
 
 # Herramientas Low-code
 Crear Apps
