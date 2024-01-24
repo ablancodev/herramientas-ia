@@ -36,6 +36,10 @@ Para creación de imágenes de perfil
 Crea varios videos cortos a partir de un video largo
 [www.opus.pro]https://www.opus.pro/
 
+## Audio
+Crea audios a partir de tu voz entrenada
+[elevenlabs.io]https://elevenlabs.io/
+
 ## UI + frontend
 Dado un color base, te da una gama de colores (creo que no tiene IA, pero aceptamos barco)
 [UIcolors.app](https://uicolors.app)
